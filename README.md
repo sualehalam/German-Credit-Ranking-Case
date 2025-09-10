@@ -18,8 +18,11 @@ The original dataset contains 1000 entries with 20 categorial/symbolic attribute
 - **Source**: UCI Machine Learning Repository  
 - **Link**: [German Credit Dataset](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)  
 - **Size**: 1000 entries  
-- **Features**: 20 independent variables (13 categorical, 7 numerical) 
+- **Features**: 20 independent variables (13 categorical, 7 numerical)
+- - **Target Variable**: `Cost Matrix (Risk)` — Good Risk (1) or Bad Risk (2)  
 
+
+### Columns Description
 * Attribute 1: (qualitative) Status of existing checking account
 A11 : ... < 0 DM  
 A12 : 0 <= ... < 200 DM  
@@ -111,4 +114,15 @@ A202 : no
 ## Objective
 
 To build a model that classifies individuals as **Good Risk** or **Bad Risk** using historical loan and borrower attributes.
+
+
+### Future Work
+
+1. Hyperparameter tuning using GridSearchCV
+
+2. SHAP values for model interpretability
+
+3. Dimensionality Reduction using PCA (Principal Component Analysis)
+
+4. Techniques like SMOTE (Synthetic Minority Over-sampling Technique) for Addressing Class Imbalance 
 
