@@ -1,1 +1,1 @@
-# German-Credit-Ranking-Case
+# Credit Risk Analysis
