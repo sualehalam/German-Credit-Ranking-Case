@@ -45,9 +45,8 @@ To build a model that classifies individuals as **Good Risk** or **Bad Risk** us
 
 ### Future Work
 
-1. Hyperparameter tuning using GridSearchCV
 
-2. SHAP values for model interpretability
+1. SHAP values for model interpretability
 
 3. Dimensionality Reduction using PCA (Principal Component Analysis)
 
