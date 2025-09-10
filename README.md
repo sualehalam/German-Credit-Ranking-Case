@@ -1,4 +1,5 @@
 # Credit Risk Analysis
+<img width="730" height="335" alt="image" src="https://github.com/user-attachments/assets/72ef46c0-fb93-44c5-b63c-cc8ffc9ad759" />
 
 
 ### Credit Risk
