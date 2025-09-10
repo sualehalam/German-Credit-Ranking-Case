@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 
-### Credit risk
+### Credit Risk
 Credit Risk is the probable risk of loss resulting from a borrower's failure to repay a loan or meet contractual obligations. If a company offers credit to its client,then there is a risk that its clients may not pay their invoices.
 
 ### Types of Credit Risk
