@@ -15,6 +15,11 @@ The original dataset contains 1000 entries with 20 categorial/symbolic attribute
 
 ### Dataset Description
 
+- **Source**: UCI Machine Learning Repository  
+- **Link**: [German Credit Dataset](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)  
+- **Size**: 1000 entries  
+- **Features**: 20 independent variables (13 categorical, 7 numerical) 
+
 * Attribute 1: (qualitative) Status of existing checking account
 A11 : ... < 0 DM  
 A12 : 0 <= ... < 200 DM  
@@ -101,3 +106,9 @@ A192 : yes, registered under the customers name
 * Attribute 20: (qualitative) foreign worker  
 A201 : yes  
 A202 : no
+
+
+## Objective
+
+To build a model that classifies individuals as **Good Risk** or **Bad Risk** using historical loan and borrower attributes.
+
