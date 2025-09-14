@@ -16,7 +16,7 @@ The original dataset contains **1000** entries with 20 categorial/symbolic attri
 
 ### Dataset Description
 
-- **Source**: UCI Machine Learning Repository  
+- **Source**: *UCI Machine Learning Repository*  
 - **Link**: [German Credit Dataset](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)  
 - **Size**: 1000 entries  
 - **Features**: 20 independent variables (13 categorical, 7 numerical)
