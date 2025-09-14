@@ -2,7 +2,7 @@
 <img width="730" height="335" alt="image" src="https://github.com/user-attachments/assets/72ef46c0-fb93-44c5-b63c-cc8ffc9ad759" />
 
 
-### What is Credit Risk?
+### What is a Credit Risk?
 Credit Risk is the probable risk of loss resulting from a borrower's failure to repay a loan or meet contractual obligations. If a company offers credit to its client,then there is a risk that its clients may not pay their invoices.
 
 ### Types of Credit Risk
